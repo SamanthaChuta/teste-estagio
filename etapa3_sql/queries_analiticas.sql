@@ -1,0 +1,3 @@
+-- Query 1: Operadoras com maior crescimento percentual
+-- Query 2: Distribuição de despesas por UF
+-- Query 3: Operadoras acima da média em pelo menos 2 trimestres
