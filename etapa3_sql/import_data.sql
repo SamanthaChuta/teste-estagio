@@ -1,0 +1,2 @@
+-- Importação dos dados a partir de arquivos CSV
+-- Considera encoding UTF-8 e tratamento de inconsistências
